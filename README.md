@@ -14,3 +14,4 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 
 Our report is a testament to our proficiency in data tools such as Excel Power Query and Pivot Chart, showcasing how we skillfully harnessed these tools to extract valuable insights. As a collaborative team, we not only met the challenge's requirements but also exceeded expectations, presenting actionable recommendations for future growth. With the submission made via Twitter, tagging <a href="https://twitter.com/the_numerist">@the_numerist</a> and using <strong>#NumeristDataChallenge</strong>, we eagerly anticipate the outcome of our hard work and strategic analysis.
 
+Note: To know more about our report analysis presentation, checkk this repo files

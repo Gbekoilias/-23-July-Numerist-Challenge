@@ -1,6 +1,6 @@
 <h1 align="center">Numerist July '23 Data Challenge (Ribbon App Performance)
 </h1>
-![alt text](photo-1562577309-4932fdd64cd1.jpg)  
+![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/3039e29557a825b5838b0339199b79700fee04aa/photo-1562577309-4932fdd64cd1.jpg)  
 Our team, composed of experienced Data Analysts and led by a final-year student from the Federal University of Technology, Minna, took on the Numerist Data Challenge with utmost dedication. The challenge involved assessing the success of SocialBlaze's new app, Ribbon, in relation to their existing app, InstantSnaps. Our meticulous data exploration revealed insightful patterns and trends within the dataset, which laid the foundation for our comprehensive analysis.
 
 In our presentation to the CEO and Founder, we highlighted key metrics and findings that shed light on the product launch's success. Our analysis, supported by impactful data visualizations, indicated a promising performance for Ribbon. We addressed the CEO's inquiries regarding leveraging this success for enhancing products and services, suggesting potential avenues for expansion and user engagement improvements.

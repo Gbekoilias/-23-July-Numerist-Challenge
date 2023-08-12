@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>'23-July-Numerist-Challenge</title>
+    <h1>'23-July-Numerist-Challenge</h1>
 </head>
 <body>
     <h1>'23-July-Numerist-Challenge

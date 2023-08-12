@@ -1,4 +1,4 @@
-# -23-July-Numerist-Challenge
+# '23-July-Numerist-Challenge
 Summary:
 Our team, composed of experienced Data Analysts and led by a final-year student from the Federal University of Technology, Minna, took on the Numerist Data Challenge with utmost dedication. The challenge involved assessing the success of SocialBlaze's new app, Ribbon, in relation to their existing app, InstantSnaps. Our meticulous data exploration revealed insightful patterns and trends within the dataset, which laid the foundation for our comprehensive analysis.
 

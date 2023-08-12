@@ -1,4 +1,4 @@
-<h1 align="center">'23-July-Numerist-Challenge
+<h1 align="center">Numerist July '23 Data Challenge (Ribbon App Performance)
 </h1>
 ![alt text](https://github.com/Gbekoilias/Go-Skills-Excel-Challenge/blob/main/G0_skills_Excel_Cover_Photo.jpg?raw=true)  
 Our team, composed of experienced Data Analysts and led by a final-year student from the Federal University of Technology, Minna, took on the Numerist Data Challenge with utmost dedication. The challenge involved assessing the success of SocialBlaze's new app, Ribbon, in relation to their existing app, InstantSnaps. Our meticulous data exploration revealed insightful patterns and trends within the dataset, which laid the foundation for our comprehensive analysis.

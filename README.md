@@ -81,8 +81,9 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 🚀 **Soaring to New Heights:** With the app's triumph as our foundation and the dynamic landscape of social media as our vehicle, we embark on a journey that extends beyond the app's horizon. Success, innovation, and growth entwine in a narrative that unfolds with every click, every share, and every engagement. 🌈
 
 ## User Acquistion and Engagement
-
-![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Line%20chart.png?raw=true) 
+<p align="center">
+  <img src="https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Line%20chart.png?raw=true" alt="Team Photo">
+</p>
 
 📈 **Beyond the Surface:** The stage is set, the curtain lifted - Ribbon, adorned with its remarkable figures of Daily Active Users and vibrant engagement, steps into the spotlight. Yet, beneath the dazzle, a path unfurls - one of untapped potential in the realm of user acquisition and engagement. 🌠
 
@@ -109,8 +110,9 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 
 🏆 **Rewards for Engagement:** The path to higher engagement is paved with recognition. We introduce a realm where users who engage deeply are rewarded - a gamified journey where interactions forge a path to virtual victory. 🏆
 
-![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Time%20spent%20on%20InstantSnaps.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Time%20spent%20on%20InstantSnaps.png" alt="Team Photo">
+</p>
 
 🛍️ **Ribbon: More Than an App:** It's time for Ribbon to transcend being just an app - it's a marketplace, a canvas for entrepreneurs. A hub where their products shine, enriching the app's tapestry while drawing in users from every corner. 🛒
 

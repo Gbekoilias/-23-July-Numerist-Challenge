@@ -47,6 +47,7 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 
 ## Key Metrics and Findings
 🗓️ **Between July 6 and August 5:** The app's journey in numbers - a symphony of data that unveils its story.
+![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
 
 📥 **Installations and Sign-ups:** In this span, a whopping 3.43 billion installations reverberated across the digital realm, with 3.426 billion enthusiastic individuals signing up for the experience. 📲
 
@@ -63,6 +64,8 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 🔮 **Looking Ahead:** As we delve into these numbers, remember they're not just figures – they're the heartbeat of an evolving narrative. They guide us toward refining experiences, addressing challenges, and charting the path to a future where each data point molds the app's legacy. 🚀
 
 ## Opportunities for Enhancement
+
+![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
 🌟 **Verdict of Success:** Standing at this crossroads, the question lingers: Has the app triumphed? The resounding answer echoes back - without doubt, we declare the app's journey a success. 🏆
 
 🚀 **The Power of Leverage:** To take this triumph to soaring heights, the app's success serves as a springboard to elevate the company's entire array of products and services. By harnessing the app's reach and resonance, a new era of promotion emerges. ✨
@@ -78,6 +81,9 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 🚀 **Soaring to New Heights:** With the app's triumph as our foundation and the dynamic landscape of social media as our vehicle, we embark on a journey that extends beyond the app's horizon. Success, innovation, and growth entwine in a narrative that unfolds with every click, every share, and every engagement. 🌈
 
 ## User Acquistion and Engagement
+
+![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
+
 📈 **Beyond the Surface:** The stage is set, the curtain lifted - Ribbon, adorned with its remarkable figures of Daily Active Users and vibrant engagement, steps into the spotlight. Yet, beneath the dazzle, a path unfurls - one of untapped potential in the realm of user acquisition and engagement. 🌠
 
 🚀 **A Journey Unfinished:** With a glance across the horizon, a truth emerges - Ribbon has a path to tread before it stands on par with the legacy of Instantsnaps. The journey, though young, holds immense promise. 🛤️
@@ -102,6 +108,8 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 🌐 **Crafting a Tailored Experience:** Imagine a timeline adorned with posts that resonate with each user's interests. An algorithmic symphony where user interests from Instantsnaps are woven into Ribbon's fabric. 🎶 Cookies, silent observers of browsing, now become curators of engagement.
 
 🏆 **Rewards for Engagement:** The path to higher engagement is paved with recognition. We introduce a realm where users who engage deeply are rewarded - a gamified journey where interactions forge a path to virtual victory. 🏆
+
+![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
 
 🛍️ **Ribbon: More Than an App:** It's time for Ribbon to transcend being just an app - it's a marketplace, a canvas for entrepreneurs. A hub where their products shine, enriching the app's tapestry while drawing in users from every corner. 🛒
 

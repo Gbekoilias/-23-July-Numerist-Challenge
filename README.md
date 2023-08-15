@@ -47,7 +47,9 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 
 ## Key Metrics and Findings
 🗓️ **Between July 6 and August 5:** The app's journey in numbers - a symphony of data that unveils its story.
-![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
+<p align="center">
+  <img src="https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Tree_R.png?raw=true" alt="Team Photo">
+</p> 
 
 📥 **Installations and Sign-ups:** In this span, a whopping 3.43 billion installations reverberated across the digital realm, with 3.426 billion enthusiastic individuals signing up for the experience. 📲
 
@@ -95,7 +97,9 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 📊 **A Tale of Two Trends:** A narrative unfolds as we dissect the trajectory of Daily Active Users. Instantsnaps, its arc resolute, charts an upward trend since July 11, 2023. Meanwhile, Ribbon's path meanders, a testament to its budding journey. 📈
 
 📉 **Challenges Along the Way:** As we venture deeper, a crossroads emerges in Ribbon's journey. A significant dip of 42% in Daily Active Users between July 31st and August 5th paints a vivid picture of challenges. The road isn't without its curves. 🛣️
-
+<p align="center">
+  <img src="https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Waffles%20Chart.png?raw=true" alt="Team Photo">
+</p>
 🔗 **Linked Yet Unexplored:** The intrigue deepens as we examine the bond between the two apps. Linked they are, yet only a mere 0.087% of Instantsnaps users have ventured into Ribbon's realm. The uncharted expanse remains vast. 🌐
 
 🌟 **From Linkage to Engagement:** The saga continues as we bridge the worlds of Ribbon and Instantsnaps. Success and potential intertwine, a symphony of innovation. The journey isn't just about numbers; it's about weaving a tapestry where triumph guides transformation. 🌄

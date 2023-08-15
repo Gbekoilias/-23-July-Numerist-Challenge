@@ -15,7 +15,7 @@
 | 5. User Acquisition and Engagement| Strategies for user engagement       |
 | 6. Actionable Recommendations     | Suggestions for future actions       |
 
-##Introduction
+## Introduction
 
 Our team, consisting of myself <a href="https://twitter.com/Gbekoilias">@gbekotheanalyst</a>  and <a href="https://twitter.com/Gbekoilias">@Olorunfemi John</a> crew ship took on the Numerist Data Challenge with utmost dedication. The challenge involved assessing the success of SocialBlaze's new app, Ribbon, in relation to their existing app, InstantSnaps. Our meticulous data exploration revealed insightful patterns and trends within the dataset, which laid the foundation for our comprehensive analysis.
 

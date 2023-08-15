@@ -82,7 +82,7 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 
 ## User Acquistion and Engagement
 
-![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
+![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Line%20chart.png?raw=true) 
 
 📈 **Beyond the Surface:** The stage is set, the curtain lifted - Ribbon, adorned with its remarkable figures of Daily Active Users and vibrant engagement, steps into the spotlight. Yet, beneath the dazzle, a path unfurls - one of untapped potential in the realm of user acquisition and engagement. 🌠
 

@@ -16,7 +16,6 @@
 | 6. Actionable Recommendations     | Suggestions for future actions       |
 
 ## Introduction
-
 Our team, consisting of myself <a href="https://twitter.com/Gbekoilias">@gbekotheanalyst</a>  and <a href="https://twitter.com/Gbekoilias">@Olorunfemi John</a> crew ship took on the Numerist Data Challenge with utmost dedication. The challenge involved assessing the success of SocialBlaze's new app, Ribbon, in relation to their existing app, InstantSnaps. Our meticulous data exploration revealed insightful patterns and trends within the dataset, which laid the foundation for our comprehensive analysis.
 
 In our presentation to the CEO and Founder, we highlighted key metrics and findings that shed light on the product launch's success. Our analysis, supported by impactful data visualizations, indicated a promising performance for Ribbon. We addressed the CEO's inquiries regarding leveraging this success for enhancing products and services, suggesting potential avenues for expansion and user engagement improvements.

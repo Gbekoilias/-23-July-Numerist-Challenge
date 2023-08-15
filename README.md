@@ -109,7 +109,8 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 
 🏆 **Rewards for Engagement:** The path to higher engagement is paved with recognition. We introduce a realm where users who engage deeply are rewarded - a gamified journey where interactions forge a path to virtual victory. 🏆
 
-![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
+![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Time%20spent%20on%20InstantSnaps.png?raw=true)
+
 
 🛍️ **Ribbon: More Than an App:** It's time for Ribbon to transcend being just an app - it's a marketplace, a canvas for entrepreneurs. A hub where their products shine, enriching the app's tapestry while drawing in users from every corner. 🛒
 

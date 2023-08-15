@@ -64,8 +64,9 @@ In our presentation to the CEO and Founder, we highlighted key metrics and findi
 🔮 **Looking Ahead:** As we delve into these numbers, remember they're not just figures – they're the heartbeat of an evolving narrative. They guide us toward refining experiences, addressing challenges, and charting the path to a future where each data point molds the app's legacy. 🚀
 
 ## Opportunities for Enhancement
-
-![alt text](https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Numerist%20Cover%20Photo.png?raw=true)  
+<p align="center">
+  <img src="https://github.com/Gbekoilias/Numerist-July-23-Data-Challenge-Ribbon-App-Performance-/blob/main/Insert_Photo/Time%20spent%20on%20Ribbon%20App%20(Minutes).png?raw=true" alt="Team Photo">
+</p>
 🌟 **Verdict of Success:** Standing at this crossroads, the question lingers: Has the app triumphed? The resounding answer echoes back - without doubt, we declare the app's journey a success. 🏆
 
 🚀 **The Power of Leverage:** To take this triumph to soaring heights, the app's success serves as a springboard to elevate the company's entire array of products and services. By harnessing the app's reach and resonance, a new era of promotion emerges. ✨
